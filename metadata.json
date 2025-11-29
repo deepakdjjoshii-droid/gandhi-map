@@ -1,0 +1,5 @@
+{
+  "name": "Gandhi-Map",
+  "description": "An interactive historical visualization of Mahatma Gandhi's life journey, featuring an animated map timeline, stats, and chronological event playback.",
+  "requestFramePermissions": []
+}
